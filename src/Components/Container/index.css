@@ -1,0 +1,28 @@
+.logo {
+
+    width: 100%;
+    background: rgba(255, 255, 255, 0.2);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo img {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+
+.site-layout-sub-header-background {
+    background: #fff;
+    display: flex;
+    align-items: center;
+
+}
+
+.site-layout-background {
+    background: #fff;
+}
